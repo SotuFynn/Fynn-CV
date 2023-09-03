@@ -1,0 +1,31 @@
+.body {
+    height:100vh;
+
+
+}
+
+.maxHeight {
+    height: 100%
+}
+
+.maxAlles {
+    width:90%;
+    height: 100%
+}
+
+.center {
+   display: flex;
+   align-items: left;
+}
+
+
+    @media (max-width: 1100px) {
+/*         
+        .image {
+       display: none !important;
+    }
+    .mobileWerdegang {
+        margin-top: -50%;
+        margin-left: 25%;
+    } */
+}
